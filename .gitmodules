@@ -1,0 +1,3 @@
+[submodule "accommodations-service"]
+	path = accommodations-service
+	url = https://github.com/samiwin1/pfe.git
